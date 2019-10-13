@@ -1,10 +1,12 @@
 module.exports = {
-	defaultTitle: 'John Doe',
+	defaultTitle: 'Jefferson Antonis',
 	logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-	author: 'John Doe',
+	author: 'Jefferson Antonis',
 	url: 'https://portfolio.smakosh.com',
-	legalName: 'John Doe',
-	defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+	legalName: 'Jefferson Antonis',
+	defaultDescription: `Meu nome é Jefferson e sou um desenvolvedor Full-Stack especializado em desenvolvimento Front-End e Back-End para aplicativos Web e Mobile.
+  Trabalho com ReactJs, PWA, React Native, Flutter e API's em NodeJs.
+  Confira alguns projetos no meu GitHub: https://github.com/jeffAntonis`,
 	socialLinks: {
 		twitter: 'http://www.twitter.com/smakosh',
 		github: 'https://github.com/smakosh',
@@ -31,5 +33,5 @@ module.exports = {
 		phone: 'phone number',
 	},
 	foundingDate: '2018',
-	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN'
+	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
 }
