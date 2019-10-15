@@ -10,5 +10,11 @@
     "name": "Github",
     "link": "https://github.com/jeffAntonis",
     "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/in/jeff-antonis/",
+    "icon": "/icons/linkedin.svg"
   }
 ]

@@ -5341,7 +5341,7 @@ gatsby-source-filesystem@^2.0.8:
     valid-url "^1.0.9"
     xstate "^3.1.0"
 
-gatsby-source-graphql@^2.0.19:
+gatsby-source-graphql@^2.0.18:
   version "2.1.18"
   resolved "https://registry.yarnpkg.com/gatsby-source-graphql/-/gatsby-source-graphql-2.1.18.tgz#dfe0e1483820c717bb27a2d3551a8ae26a2ed24a"
   integrity sha512-3VRXF4frYh4NDciKJ9xgdDmGLdjO5FXBzqLSmryDQGJ1ekqMDq3fyoCBn68JES0kVD9Ywfsegp+ey85q4VnQyg==

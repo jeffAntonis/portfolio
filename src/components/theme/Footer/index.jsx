@@ -14,7 +14,7 @@ export const Footer = () => (
 						💖
 					</span>{' '}
 					by{' '}
-					<a href="#" rel="noopener noreferrer" target="_blank">
+					<a href="" rel="noopener noreferrer">
 						jeffAntonis
 					</a>
 				</span>
